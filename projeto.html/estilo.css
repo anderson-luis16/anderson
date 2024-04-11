@@ -17,3 +17,38 @@ a{
     color: rgb(120, 5, 252);
     text-decoration: none;
 }
+.freefi {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.freefi:hover {
+    text-align: center;
+    font-size: larger;
+}       
+li {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+p {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+.pprt {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.pprt:hover {
+    text-align: center;
+    font-size: larger;
+}       
+.pptor {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.pptor:hover {
+    text-align: center;
+    font-size: larger;
+}       
