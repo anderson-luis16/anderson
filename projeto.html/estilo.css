@@ -52,3 +52,32 @@ p {
     text-align: center;
     font-size: larger;
 }       
+.ds {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.ds:hover {
+    text-align: center;
+    font-size: larger;
+}       
+a {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+.kkk {
+    font-size: larger;
+    text-align: center;
+}
+.kkk:hover {
+    font-size: large;
+    text-align: center;
+}
+ul {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+.ff {
+    text-align: center;
+    
+}
