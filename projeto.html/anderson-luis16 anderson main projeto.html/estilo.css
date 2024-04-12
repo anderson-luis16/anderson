@@ -1,0 +1,79 @@
+body {
+    color:rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: rgb(120, 5, 252);
+    text-decoration: none;
+}
+.freefi {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.freefi:hover {
+    text-align: center;
+    font-size: larger;
+}       
+li {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+p {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+.pprt {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.pprt:hover {
+    text-align: center;
+    font-size: larger;
+}       
+.pptor {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.pptor:hover {
+    text-align: center;
+    font-size: larger;
+}       
+.ds {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.ds:hover {
+    text-align: center;
+    font-size: larger;
+}       
+a {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+.kkk {
+    font-size: larger;
+    text-align: center;
+}
+.kkk:hover {
+    font-size: large;
+    text-align: center;
+}
+ul {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
