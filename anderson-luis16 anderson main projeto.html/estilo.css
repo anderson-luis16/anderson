@@ -77,4 +77,39 @@ ul {
     background-color: rgba(0, 0, 0, 0.349);
     border-radius: 20px;
 }
+.cada {
+    height: 300px;
+    width: 300px;
+}
+.ti {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.ti:hover {
+    text-align: center;
+    font-size: larger;
+}
+.htm {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.htm:hover {
+    text-align: center;
+    font-size: larger;
+}
+.pu {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.pu:hover {
+    text-align: center;
+    font-size: larger;  
+}
+
+
+
+
 
