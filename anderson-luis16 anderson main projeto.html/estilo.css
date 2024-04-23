@@ -108,7 +108,24 @@ ul {
     text-align: center;
     font-size: larger;  
 }
-
+.home {
+    list-style: none;
+    position: sticky;
+    top: 0px;
+    z-index: 5;
+}
+.home li {
+    display: inline-block;
+    margin: 30px 80px;
+}
+.home a {
+    color:blueviolet;
+    text-transform: none;
+}
+.home a:hover {
+    color:blueviolet;
+    font-size: larger;
+}
 
 
 
