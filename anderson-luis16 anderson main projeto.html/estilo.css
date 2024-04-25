@@ -126,7 +126,11 @@ ul {
     color:blueviolet;
     font-size: larger;
 }
-
-
-
-
+h2 {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
+ht {
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 20px;
+}
