@@ -1,0 +1,9 @@
+.freefi {
+    text-align: center;
+    width: 125px;
+    height: 25px
+}
+.freefi:hover {
+    text-align: center;
+    font-size: larger;
+}   
